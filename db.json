@@ -31,7 +31,8 @@
       "curiculumyear": "2016"
   }
   ],
-  "plos": {
+  "plos": [
+  {
       "id": "1",
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
@@ -130,4 +131,5 @@
       "plonumber": "10",
       "ploname": "PLO10. Pemahaman dan kemampuan untuk mendukung penggunaan, penyampaian, dan pengelolaan sistem informasi dalam lingkungan Sistem Informasi"
   }
+  ],
 }
