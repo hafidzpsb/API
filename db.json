@@ -21,7 +21,7 @@
     {"id": "3", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curiculumyear": "2020", "subjectcode": "ISI2B3", "subjectname": "PEMODELAN PROSES BISNIS", "admitsemester": "1"},
     {"id": "4", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curiculumyear": "2020", "subjectcode": "ISI3E3", "subjectname": "DASAR SISTEM OPERASI", "admitsemester": "1"},
     {"id": "5", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curiculumyear": "2020", "subjectcode": "ISI3D3", "subjectname": "PENGEMBANGAN APLIKASI WEBSITE", "admitsemester": "1"}
-  ],
+  ], 
   "profile": {
     "name": "typicode"
   }
