@@ -1,5 +1,5 @@
 {
-  "curiculums": [
+  "curiculums": test [
     {"id": "1", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curiculumyear": "2020"}
   ],
   "plos": [
@@ -42,7 +42,7 @@
       "studentschoolyear": "1718",
       "indexpoint": "B "
     }
-  ]
+  ],
   "profile": {
     "name": "typicode"
   }
