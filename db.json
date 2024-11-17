@@ -1,17 +1,9 @@
 {
-  "curriculums": [
-  {
-      "id": "1",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2016"
-  },
-  {
-      "id": "2",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2020"
-  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
