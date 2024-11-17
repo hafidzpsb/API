@@ -22,6 +22,27 @@
     {"id": "4", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curiculumyear": "2020", "subjectcode": "ISI3E3", "subjectname": "DASAR SISTEM OPERASI", "admitsemester": "1"},
     {"id": "5", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curiculumyear": "2020", "subjectcode": "ISI3D3", "subjectname": "PENGEMBANGAN APLIKASI WEBSITE", "admitsemester": "1"}
   ],
+  "transactions": [
+    {
+      "id": "1",
+      "subjectid": "22800",
+      "cloploid": "500",
+      "clocloid": "6773",
+      "studyprogramid": "22",
+      "cloassessmenttoolsid": "2858",
+      "cloassessmenttoolsname": "Tugas Besar",
+      "assessmentprecentage": "40",
+      "cloquestionid": "6344",
+      "questionnumber": "1",
+      "questiondescription": "Tugas besar terkait permasalahan ril",
+      "questionprecentage": "100",
+      "studentid": "1201174015",
+      "fullname": "BELLA RAMADINI",
+      "class": "SI-41-09",
+      "studentschoolyear": "1718",
+      "indexpoint": "B "
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
