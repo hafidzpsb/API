@@ -2,6 +2,11 @@
   "curiculums": [
     {"id": "1", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curiculumyear": "2020"}
   ],
+  "plos": [
+    {"id": "1", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curriculum": "2020", "cloploid": "500", "plonumber": "1", "ploname": "PLO01. Kemampuan menerapkan pengetahuan di bidang komputasi dan matematika yang sesuai dengan disiplin ilmu"},
+    {"id": "2", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curriculum": "2020", "cloploid": "501", "plonumber": "2", "ploname": "PLO02. Kemampuan menganalisis permasalahan, melakukan identifikasi dan mendefinisikan kebutuhan komputasi yang bersesuaian dengan solusi"},
+    {"id": "3", "studyprogramid": "22", "studyprogramname": "S1 Sistem Informasi", "curriculum": "2020", "cloploid": "502", "plonumber": "3", "ploname": "PLO03. Kemampuan untuk merancang, melakukan implementasi dan mengevaluasi sistem berbasis komputer, proses, komponen, atau program untuk memenuhi kebutuhan yang diinginkan"}
+  ],
   "profile": {
     "name": "typicode"
   }
