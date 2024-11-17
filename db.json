@@ -31,7 +31,103 @@
       "curiculumyear": "2016"
   }
   ],
-  "profile": {
-    "name": "typicode"
+  "plos": {
+      "id": "1",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "504",
+      "plonumber": "5",
+      "ploname": "PLO05. Pemahaman terhadap isu dan tanggungjawab profesi, etika, hukum, keamanan, dan sosial"
+  },
+  {
+      "id": "2",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "501",
+      "plonumber": "2",
+      "ploname": "PLO02. Kemampuan menganalisis permasalahan, melakukan identifikasi dan mendefinisikan kebutuhan komputasi yang bersesuaian dengan solusi"
+  },
+  {
+      "id": "3",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "507",
+      "plonumber": "8",
+      "ploname": "PLO08. Menyadari kebutuhan akan dan kemampuan dalam pengembangan profesi berkelanjutan"
+  },
+  {
+      "id": "4",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "502",
+      "plonumber": "3",
+      "ploname": "PLO03. Kemampuan untuk merancang, melakukan implementasi dan mengevaluasi sistem berbasis komputer, proses, komponen, atau program untuk memenuhi kebutuhan yang diinginkan"
+  },
+  {
+      "id": "5",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "505",
+      "plonumber": "6",
+      "ploname": "PLO06. Kemampuan untuk berkomunikasi secara efektif dengan peserta yang beragam"
+  },
+  {
+      "id": "6",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "500",
+      "plonumber": "1",
+      "ploname": "PLO01. Kemampuan menerapkan pengetahuan di bidang komputasi dan matematika yang sesuai dengan disiplin ilmu"
+  },
+  {
+      "id": "7",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "506",
+      "plonumber": "7",
+      "ploname": "PLO07. Kemampuan untuk menganalisis dampak lokal dan global dari komputasi  individu, organisasi dan masyarakat"
+  },
+  {
+      "id": "8",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "508",
+      "plonumber": "9",
+      "ploname": "PLO09. Kemampuan untuk menggunakan teknik, keahlian dan kakas terkini yang diperlukan untuk praktek komputasi"
+  },
+  {
+      "id": "9",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "510",
+      "plonumber": "11",
+      "ploname": "PLO11. Pemahaman untuk menerapkan pengetahuan bisnis dalam mengembangkan kapasitas menjadi technopreneurship"
+  },
+  {
+      "id": "10",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "503",
+      "plonumber": "4",
+      "ploname": "PLO04. Kemampuan untuk bekerja secara efektif di dalam tim untuk mencapai tujuan bersama"
+  },
+  {
+      "id": "11",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "509",
+      "plonumber": "10",
+      "ploname": "PLO10. Pemahaman dan kemampuan untuk mendukung penggunaan, penyampaian, dan pengelolaan sistem informasi dalam lingkungan Sistem Informasi"
   }
 }
