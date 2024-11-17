@@ -1,46 +1,46 @@
 {
   "curriculums": [
-    {
-        "id": "1",
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curiculumyear": "2016"
-    },
-    {
-        "id": "2",
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curiculumyear": "2020"
-    },
+  {
+      "id": "1",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curiculumyear": "2016"
+  },
+  {
+      "id": "2",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curiculumyear": "2020"
+  },
   ],
   "plos": [
-    {
-        "id": "1",
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curriculum": "2020",
-        "cloploid": "504",
-        "plonumber": "5",
-        "ploname": "PLO05. Pemahaman terhadap isu dan tanggungjawab profesi, etika, hukum, keamanan, dan sosial"
-    },
-    {
-        "id": "2",
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curriculum": "2020",
-        "cloploid": "501",
-        "plonumber": "2",
-        "ploname": "PLO02. Kemampuan menganalisis permasalahan, melakukan identifikasi dan mendefinisikan kebutuhan komputasi yang bersesuaian dengan solusi"
-    },
-    {
-        "id": "3",
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curriculum": "2020",
-        "cloploid": "507",
-        "plonumber": "8",
-        "ploname": "PLO08. Menyadari kebutuhan akan dan kemampuan dalam pengembangan profesi berkelanjutan"
-    },
+  {
+      "id": "1",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "504",
+      "plonumber": "5",
+      "ploname": "PLO05. Pemahaman terhadap isu dan tanggungjawab profesi, etika, hukum, keamanan, dan sosial"
+  },
+  {
+      "id": "2",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "501",
+      "plonumber": "2",
+      "ploname": "PLO02. Kemampuan menganalisis permasalahan, melakukan identifikasi dan mendefinisikan kebutuhan komputasi yang bersesuaian dengan solusi"
+  },
+  {
+      "id": "3",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curriculum": "2020",
+      "cloploid": "507",
+      "plonumber": "8",
+      "ploname": "PLO08. Menyadari kebutuhan akan dan kemampuan dalam pengembangan profesi berkelanjutan"
+  },
   ],
   "profile": {
     "name": "typicode"
