@@ -1,8 +1,29 @@
 {
-  "posts": [
+  "curriculums": [
     {
-      "id": 1,
-      "title": "hello"
+        "studyprogramid": "22",
+        "studyprogramname": "S1 Sistem Informasi",
+        "curiculumyear": "2024"
+    },
+    {
+        "studyprogramid": "22",
+        "studyprogramname": "S1 Sistem Informasi",
+        "curiculumyear": "2008"
+    },
+    {
+        "studyprogramid": "22",
+        "studyprogramname": "S1 Sistem Informasi",
+        "curiculumyear": "2020"
+    },
+    {
+        "studyprogramid": "22",
+        "studyprogramname": "S1 Sistem Informasi",
+        "curiculumyear": "2014"
+    },
+    {
+        "studyprogramid": "22",
+        "studyprogramname": "S1 Sistem Informasi",
+        "curiculumyear": "2016"
     }
   ],
   "profile": {
