@@ -1,35 +1,17 @@
 {
   "curriculums": [
-  {
+    {
       "id": "1",
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2024"
+      "curiculumyear": "2016"
   },
   {
       "id": "2",
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2008"
-  },
-  {
-      "id": "3",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
       "curiculumyear": "2020"
   },
-  {
-      "id": "4",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2014"
-  },
-  {
-      "id": "5",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2016"
-  }
   ],
   "plos": [
   {
@@ -59,81 +41,9 @@
       "plonumber": "8",
       "ploname": "PLO08. Menyadari kebutuhan akan dan kemampuan dalam pengembangan profesi berkelanjutan"
   },
-  {
-      "id": "4",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "502",
-      "plonumber": "3",
-      "ploname": "PLO03. Kemampuan untuk merancang, melakukan implementasi dan mengevaluasi sistem berbasis komputer, proses, komponen, atau program untuk memenuhi kebutuhan yang diinginkan"
-  },
-  {
-      "id": "5",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "505",
-      "plonumber": "6",
-      "ploname": "PLO06. Kemampuan untuk berkomunikasi secara efektif dengan peserta yang beragam"
-  },
-  {
-      "id": "6",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "500",
-      "plonumber": "1",
-      "ploname": "PLO01. Kemampuan menerapkan pengetahuan di bidang komputasi dan matematika yang sesuai dengan disiplin ilmu"
-  },
-  {
-      "id": "7",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "506",
-      "plonumber": "7",
-      "ploname": "PLO07. Kemampuan untuk menganalisis dampak lokal dan global dari komputasi  individu, organisasi dan masyarakat"
-  },
-  {
-      "id": "8",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "508",
-      "plonumber": "9",
-      "ploname": "PLO09. Kemampuan untuk menggunakan teknik, keahlian dan kakas terkini yang diperlukan untuk praktek komputasi"
-  },
-  {
-      "id": "9",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "510",
-      "plonumber": "11",
-      "ploname": "PLO11. Pemahaman untuk menerapkan pengetahuan bisnis dalam mengembangkan kapasitas menjadi technopreneurship"
-  },
-  {
-      "id": "10",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "503",
-      "plonumber": "4",
-      "ploname": "PLO04. Kemampuan untuk bekerja secara efektif di dalam tim untuk mencapai tujuan bersama"
-  },
-  {
-      "id": "11",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curriculum": "2020",
-      "cloploid": "509",
-      "plonumber": "10",
-      "ploname": "PLO10. Pemahaman dan kemampuan untuk mendukung penggunaan, penyampaian, dan pengelolaan sistem informasi dalam lingkungan Sistem Informasi"
-  }
   ],
   "clos": [
-    {
+  {
       "id": "1",
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
@@ -160,50 +70,6 @@
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
       "curiculumyear": "2020",
-      "subjectcode": "ISI3B3",
-      "clocloid": "5327",
-      "cloploid": "502",
-      "clonumber": "4",
-      "cloname": "CLO 04. Mampu menyusun, memodelkan, dan menganalisis arsitektur sistem informasi (data, aplikasi) eksisting"
-  },
-  {
-      "id": "4",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2020",
-      "subjectcode": "ISI4L3",
-      "clocloid": "19451",
-      "cloploid": "506",
-      "clonumber": "15",
-      "cloname": "CLO 3 | Mahasiswa mampu melakukan identifikasi faktor-faktor penentu keberhasilan online branding"
-  },
-  {
-      "id": "5",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2020",
-      "subjectcode": "UWI1C2",
-      "clocloid": "11371",
-      "cloploid": "506",
-      "clonumber": "11",
-      "cloname": "CLO01. Mampu memahami dan menjelaskan perkembangan teknologi pada umumnya dan teknologi informasi dan komunikasi (TIK) pada khususnya serta kaitannya dengan aspek lain"
-  },
-  {
-      "id": "6",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2020",
-      "subjectcode": "ISI2F3",
-      "clocloid": "6773",
-      "cloploid": "500",
-      "clonumber": "13",
-      "cloname": "CLO05. Mahasiswa mampu melakukan analisis korelasi untuk menyelesaikan masalah perancangan, perbaikan, pemasangan dan pengoperasian sistem terintegrasi."
-  },
-  {
-      "id": "7",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2020",
       "subjectcode": "ISI4J3",
       "clocloid": "7301",
       "cloploid": "501",
@@ -211,49 +77,38 @@
       "cloname": "CLO02 - Mengerti dan mampu merancang desain arsitektur big data dengan distributed computing/data warehouse"
   },
   {
-      "id": "8",
+      "id": "4",
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
       "curiculumyear": "2020",
-      "subjectcode": "ISI3F4",
-      "clocloid": "7426",
-      "cloploid": "509",
-      "clonumber": "6",
-      "cloname": "CLO06. Mahasiswa mampu menerapkan konsep big data pada suatu studi kasus"
+      "subjectcode": "UII4F3",
+      "clocloid": "21696",
+      "cloploid": "507",
+      "clonumber": "15",
+      "cloname": "CLO01.Mahasiswa mampu berkomunikasi dengan baik secara kritis serta menawarkan berbagai alternatif solusi untuk menyelesaikan persoalan."
   },
   {
-      "id": "9",
+      "id": "5",
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
       "curiculumyear": "2020",
-      "subjectcode": "ISI2B3",
-      "clocloid": "7447",
-      "cloploid": "501",
-      "clonumber": "1",
-      "cloname": "CLO-01 Mahasiswa mampu memahami konsep dan komponen proses bisnis"
+      "subjectcode": "III4S3",
+      "clocloid": "21661",
+      "cloploid": "507",
+      "clonumber": "10",
+      "cloname": "CLO04 Mahasiswa mampu mengidentifikasikan dan memformulasikan masalah dengan baik yang didukung oleh data-data sebagai sebuah pengetahuan baru untuk mahasiswa yang diperoleh selama MBKM"
   },
   {
-      "id": "10",
+      "id": "6",
       "studyprogramid": "22",
       "studyprogramname": "S1 Sistem Informasi",
       "curiculumyear": "2020",
-      "subjectcode": "ISI4Q3",
-      "clocloid": "7506",
-      "cloploid": "508",
-      "clonumber": "21",
-      "cloname": "CLO7 - Mampu menganalisa kecukupan pertimbangan risiko pada sebuah arsitektur enterprise"
-  },
-  {
-      "id": "11",
-      "studyprogramid": "22",
-      "studyprogramname": "S1 Sistem Informasi",
-      "curiculumyear": "2020",
-      "subjectcode": "ISI3E3",
-      "clocloid": "7507",
-      "cloploid": "502",
-      "clonumber": "6901",
-      "cloname": "CLO-01. Mahasiswa Mampu Menjelaskan dan Melakukan Konsep dan Konfigurasi OSPF"
-  }
+      "subjectcode": "III4O3",
+      "clocloid": "19395",
+      "cloploid": "507",
+      "clonumber": "4",
+      "cloname": "CLO04 Mahasiswa mampu mengidentifikasikan dan memformulasikan masalah dengan baik yang didukung oleh data-data sebagai sebuah pengetahuan baru untuk mahasiswa yang diperoleh selama MBKM"
+    },
   ],
   "profile": {
     "name": "typicode"
