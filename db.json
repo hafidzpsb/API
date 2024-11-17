@@ -1,30 +1,35 @@
 {
   "curriculums": [
-    {
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curiculumyear": "2024"
-    },
-    {
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curiculumyear": "2008"
-    },
-    {
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curiculumyear": "2020"
-    },
-    {
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curiculumyear": "2014"
-    },
-    {
-        "studyprogramid": "22",
-        "studyprogramname": "S1 Sistem Informasi",
-        "curiculumyear": "2016"
-    }
+  {
+      "id": "1",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curiculumyear": "2024"
+  },
+  {
+      "id": "2",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curiculumyear": "2008"
+  },
+  {
+      "id": "3",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curiculumyear": "2020"
+  },
+  {
+      "id": "4",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curiculumyear": "2014"
+  },
+  {
+      "id": "5",
+      "studyprogramid": "22",
+      "studyprogramname": "S1 Sistem Informasi",
+      "curiculumyear": "2016"
+  }
   ],
   "profile": {
     "name": "typicode"
